@@ -1,4 +1,4 @@
-name: SLSA go releaser
+name: Build and generate provenance
 on:
   workflow_dispatch:
   push:
